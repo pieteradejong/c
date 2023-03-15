@@ -3,7 +3,8 @@
 _Why C? Learn to be close to the metal._
 
 ## Project 0: 
-```int main() {
+```c
+int main() {
 	printf("Hello, World!");
 	return 0;
 }
